@@ -4,7 +4,7 @@ Here’s the revised `README.md` file for your project, without referencing Reac
 
 # ChatWithPDF RAG
 
-ChatWithPDF is an interactive Retrieval-Augmented Generation (RAG) system that enables users to query and interact with the contents of PDF documents using advanced language models. The system allows for seamless extraction of text from PDFs and provides a conversational interface that allows users to ask questions and receive relevant answers based on the document's content.
+ChatWithPDF is an interactive Retrieval-Augmented Generation (RAG) system that enables users to query and interact with the contents of PDF documents using advanced language models. The system allows for seamless extraction of text from PDFs and provides a  interface that allows users to ask questions and receive relevant answers based on the document's content.
 
 The web interface is designed to be responsive and clean, offering a user-friendly experience with easy navigation and interaction. The system leverages modern techniques like vector embeddings and retrieval-based models to quickly process user queries and provide insightful responses.
 
